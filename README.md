@@ -1,5 +1,5 @@
 # Maze Solver
-
+[![Run on Repl.it](https://repl.it/badge/github/sbunivedu/cs2-maze-solver-JackHCampbell)](https://repl.it/github/sbunivedu/cs2-maze-solver-JackHCampbell)
 Maze traversal is a search problem. Many problems we solve in computing can be framed as a search problem - finding a solution in a pool of possible solutions (search space). Sometimes, blindly searching through a large search space is the only option we have. This kind of search is known as a complete (exhaustive) search.
 
 Suppose we have a maze defined by a two-dimensional grid of integers where each number represents either a path (1) or a wall (0) in the maze. We store each maze in a file, where the first line describes the number of rows and columns in the grid (maze).
